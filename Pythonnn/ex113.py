@@ -11,5 +11,5 @@ def leiaint(msg):
         else:
             return n
 
-num = leiaint('Digite um valor inteiro: ')
-print('O valor digitado foi {}' .format(num))
+#num = leiaint('Digite um valor inteiro: ')
+#print('O valor digitado foi {}' .format(num))
